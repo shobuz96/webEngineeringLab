@@ -1,0 +1,78 @@
+h1{
+    color : hsl(0, 0%, 0%);
+    background-color : greenyellow;
+    height: 10%;
+    width: 76%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+}
+p{
+    color : rgb(2, 5, 6);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+button{
+    color : rgb(0, 0, 0);
+    
+}
+img{
+    width: 50%;
+}
+#E{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: blueviolet;
+}
+.friend{
+    color:blue;
+    font-style: italic;
+    background-color: yellow;
+    width: 50%;
+}
+h1.friend{
+    color: violet;
+    font-size: 60px;
+    background-color: black;
+}
+.games{
+    font-weight: 700;
+    color: rgb(13, 28, 28);
+    width: 40%;
+    background-color: rgb(215, 191, 12);
+}
+.neighbor{
+    width: 200px;
+}
+.romantic{
+    color: red;
+}
+.tour{
+    background-color: lightblue;
+    width: 50%;
+
+}
+div.blog{
+    border: 5px solid purple;
+    border-radius: 30px;
+    /*margin: 10px 15px 15px 10px;*/
+    margin: 40px;
+    width: 200px;
+    padding: 100px 190px;
+    display: inline-block;
+    text-align: justify;
+    background-color: rgb(0, 241, 241);
+    font-family: 'Times New Roman', Times, serif;
+    color: lightpink;
+    
+    
+}
